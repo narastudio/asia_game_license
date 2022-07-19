@@ -1,0 +1,10 @@
+<!--
+  TYPE 1 = DLL
+  TYPE 2 = EXE
+-->
+<CHEATDB>
+    <file name="dinput8.dll" type="1"/>
+	<file name="avrt.dll" type="1"/>
+    <file name="Charles.exe" type="2"/>
+	<file name="Calculator.exe" type="2"/>
+</CHEATDB>
